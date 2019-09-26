@@ -1,2 +1,2 @@
-# codeX-misuc
+# codeX-music
 melody synthesizer for CodeX
